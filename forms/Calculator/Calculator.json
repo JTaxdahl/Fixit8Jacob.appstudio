@@ -45,6 +45,15 @@
         "Elements",
         "btnMultiply.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Calculator",
+        "Elements",
+        "lblAnswer.json"
+      ]
     }
   ],
   "class": "",

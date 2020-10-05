@@ -2,7 +2,7 @@
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 btnSubmitMember.onclick=function(){
-  members = inptMember.value
+  members = InptMember.value
   if (members.includes(InptMember.value))
     memberLabel.value = "You are a member " + InptMember.value 
   else { 
